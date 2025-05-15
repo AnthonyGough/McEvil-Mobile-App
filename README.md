@@ -34,5 +34,5 @@
 * The Login and Register screens are pointing to my webserver - so when you set up yours need to update fetch
 * Well good luck with McEvil :)
 
-## Server Repo https://github.com/AnthonyGough/McEvil_Music_Server.git
-## React Native App https://github.com/AnthonyGough/McEvil-Mobile-App.git
+**Server Repo https://github.com/AnthonyGough/McEvil_Music_Server.git**
+ **React Native App https://github.com/AnthonyGough/McEvil-Mobile-App.git**
