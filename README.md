@@ -29,4 +29,10 @@
                 }
 
 ## Mobile Application
-* This is in the repository - you will need to look at 
+* This contains your mobile application - install node_modules and then run the application with `npx expo start` or maybe `npx expo start --tunnel`
+        - try it without the tunnel however I had to use the tunnel to work
+* The Login and Register screens are pointing to my webserver - so when you set up yours need to update fetch
+* Well good luck with McEvil :)
+
+## Server Repo https://github.com/AnthonyGough/McEvil_Music_Server.git
+## React Native App
